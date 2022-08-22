@@ -1,0 +1,17 @@
+  @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+.topbar { align-items: center; height: 100px; background-color: black;display: flex; justify-content: center;justify-content: space-around;}
+.href_about {text-decoration: none; color: white; font-family: 'Poppins', sans-serif;
+}
+.href_portfolio {text-decoration: none; color: white;font-family: 'Poppins', sans-serif;
+}
+.href_contacts {text-decoration: none; color: white;font-family: 'Poppins', sans-serif;
+}
+.h1_1 {text-align: center; font-family: 'Silkscreen', cursive;padding: 50px;}
+.description_h4 {text-align: center; font-family: 'Poppins', sans-serif; padding-left: 50px; padding-right: 50px;}
+.h1_2 {text-align: center; font-family: 'Silkscreen', cursive;padding: 50px;}
+.info {background-color: black; height: 100px; align-items: center; display: flex; justify-content: center; justify-content: space-around;bottom: 0px;}
+i{
+    color:white;
+    font-size: 1.6em;
+}
